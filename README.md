@@ -11,7 +11,7 @@ Designed for **B.Tech Robotics** students to visualize complex concepts through 
 
 ---
 
-### 🔍 Technical Keywords & Concepts Covered
+### 🔍 Technical  Concepts Covered
 `3-Phase Induction Motor` • `Torque-Slip Curve` • `EMF Equation` • `Lap Winding` • `Wave Winding` • `Commutator Action` • `PV Diagrams` • `TS Diagrams` • `Thermal Efficiency` • `Otto Cycle` • `Isothermal Process` • `Adiabatic Process`
 
 ---
@@ -45,17 +45,5 @@ Designed for **B.Tech Robotics** students to visualize complex concepts through 
 ---
 ## SCREENSHOTS
 <img width="1486" height="592" alt="image" src="https://github.com/user-attachments/assets/77a89556-55eb-4e09-a00e-a9ecd6ee8330" />
-<img width="1486" height="592" alt="image" src="https://github.com/user-attachments/assets/accd982b-9047-40c5-96f7-25c7583d05c0" />
-
----
-
-**Torque-Slip Characteristics**  
-![Torque-Slip](https://via.placeholder.com/800x400/0066cc/ffffff?text=Torque-Slip+Curve)
-
-**Carnot Cycle (PV & TS Diagram)**  
-![Carnot Cycle](https://via.placeholder.com/800x400/ff6600/ffffff?text=Carnot+Cycle+PV+and+TS)
-
-**DC Generator Waveform Simulator**  
-![Waveform](https://via.placeholder.com/800x400/00cc66/ffffff?text=Alternating+to+Rectified+Waveform)
 
 ---
