@@ -12,7 +12,7 @@ Designed for **B.Tech Robotics** students to visualize complex concepts through 
 ---
 
 ### 🔍 Technical  Concepts Covered
-`3-Phase Induction Motor` • `Torque-Slip Curve` • `EMF Equation` • `Lap Winding` • `Wave Winding` • `Commutator Action` • `PV Diagrams` • `TS Diagrams` • `Thermal Efficiency` • `Otto Cycle` • `Isothermal Process` • `Adiabatic Process`
+`3-Phase Induction Motor` • `Torque-Slip Curve` • `EMF Equation` • `Lap Winding` • `Wave Winding` • `Commutator Action` • `PV Diagrams` • `TS Diagrams` • `Thermal Efficiency` • `Otto Cycle` • `Isothermal Process` •
 
 ---
 
