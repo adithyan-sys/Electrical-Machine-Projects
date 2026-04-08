@@ -24,8 +24,9 @@ Designed for **B.Tech Robotics** students to visualize complex concepts through 
 | **Torque-Slip Characteristic** | 3-Phase Induction Motor torque vs slip curve | Multiple rotor types (Squirrel-cage vs Wound) with \(T_{\max}\) and starting torque |
 | **DC Generator EMF & Winding Simulator** | EMF equation + Lap vs Wave winding visualization | Real-time EMF calculation + commutator coil diagrams |
 | **Simple Loop Generator Waveform** | Alternating EMF → Rectified DC output | Classic slip-ring vs split-ring commutator waveforms |
+| **DC LOSS EFFICIENCY** | Total losses curve| Maximum efficiency point clearly marked | efficiency curve |
 
-### 🔥 Thermodynamics
+### 🔥 Thermodynamic
 | Project | Description | Key Visualization |
 |---------|-------------|-------------------|
 | **Carnot Cycle Simulator** | Most efficient reversible heat engine | Beautiful **P-V** and **T-S** diagrams with efficiency calculation |
