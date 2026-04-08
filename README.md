@@ -38,8 +38,8 @@ Designed for **B.Tech Robotics** students to visualize complex concepts through 
 
 - ✅ Clean, interactive visualizations using Matplotlib
 - ✅ Real-time parameter input (no hardcoding)
-- ✅ Matches exact equations from lecture notes
-- ✅ Professional plots with proper labels and annotations
+- ✅ Matche's exact equations from lecture notes
+- ✅ Professional plots with proper labeles and annotations
 - ✅ Ready for project reports & presentations
 - ✅ Easy to extend (add more machines/cycles)
 
